@@ -32,3 +32,8 @@
 ## 👨‍💻 About Me
 
 I'm a **Software Engineer** focused on building robust applications and platforms across **backend engineering, cloud, data engineering and AI-assisted systems**.
+
+- 🏗️ Designing maintainable **backend systems, APIs and distributed workflows**
+- ☕ Building and modernizing applications with **Java & Spring Boot**
+- 🐍 Developing APIs, automation and data workloads with **Python**
+- 📊 Working with **data pipelines, analytics, SQL and modern data architectures**
