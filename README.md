@@ -267,3 +267,25 @@ My personal engineering portfolio presenting projects, technical experience and 
 </p>
 
 ---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+### 📈 Profile Overview
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hamdaoui-Ali&theme=github_dark&animation=draw" alt="GitHub Profile Details"/>
+
+<br/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hamdaoui-Ali&theme=github_dark&animation=rise" alt="GitHub Statistics"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hamdaoui-Ali&theme=github_dark&animation=rise" alt="Most Used Languages in Commits"/>
+
+<br/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hamdaoui-Ali&theme=github_dark" alt="Repositories per Language"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Hamdaoui-Ali&theme=github_dark&utcOffset=1" alt="Productive Time"/>
+
+</div>
+
+---
