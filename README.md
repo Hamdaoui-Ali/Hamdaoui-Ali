@@ -78,3 +78,11 @@ The system performs:
 `Python` · `LangGraph` · `Java 17` · `Spring Boot 3` · `OpenRewrite` · `Maven` · `JUnit` · `Git`
 
 ---
+
+## ⚓ PortFlow — Data Engineering Control Tower
+
+<a href="https://github.com/Hamdaoui-Ali/PortFlow">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Hamdaoui-Ali&repo=PortFlow&theme=github_dark&hide_border=true" alt="PortFlow"/>
+</a>
+
+A reproducible **container-terminal operations analytics platform** that transforms simulated operational data into tested analytical datasets and operational KPIs.
