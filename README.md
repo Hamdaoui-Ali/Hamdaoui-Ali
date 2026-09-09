@@ -86,3 +86,19 @@ The system performs:
 </a>
 
 A reproducible **container-terminal operations analytics platform** that transforms simulated operational data into tested analytical datasets and operational KPIs.
+
+**Highlights**
+
+- Deterministic terminal-operation data generation
+- Analytical processing pipeline
+- Versioned data snapshots
+- Data quality validation
+- Local-first and reproducible architecture
+- Static analytics delivery without an always-on backend
+- Designed around a zero-cost infrastructure boundary
+
+**Core Stack**
+
+`Python` · `PostgreSQL` · `Parquet` · `DuckDB` · `dbt Core` · `SQL` · `Data Engineering`
+
+---
