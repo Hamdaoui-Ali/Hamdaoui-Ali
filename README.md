@@ -68,6 +68,16 @@ I'm a **Software Engineer** focused on building robust applications and platform
 
 ---
 
+## 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Hamdaoui-Ali&theme=dark&hide_border=true" alt="GitHub Contribution Streak"/>
+
+</div>
+
+---
+
 # 🚀 Featured Engineering Projects
 
 ## 🧠 AI Migration Factory
@@ -286,16 +296,6 @@ My personal engineering portfolio presenting projects, technical experience and 
 <img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white"/>
 <img src="https://img.shields.io/badge/SonarCloud-F3702A?style=flat-square&logo=sonarcloud&logoColor=white"/>
 </p>
-
----
-
-## 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Hamdaoui-Ali&theme=dark&hide_border=true" alt="GitHub Contribution Streak"/>
-
-</div>
 
 ---
 
