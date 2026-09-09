@@ -137,3 +137,14 @@ A deadline and reminder platform engineered around **reliable notification proce
 </a>
 
 A **Morocco-first job discovery application** that collects opportunities from approved public sources, normalizes them and ranks relevant openings.
+
+**Highlights**
+
+- Multi-source job discovery architecture
+- Greenhouse and Lever integrations
+- Source policy and domain controls
+- Opportunity normalization and ranking
+- Search history and job actions
+- Lightweight SQLite persistence
+- REST API with OpenAPI documentation
+- Automated backend, frontend and browser testing
