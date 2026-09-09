@@ -168,3 +168,15 @@ A modern project and task-management application built with the Laravel ecosyste
 `PHP 8.3` · `Laravel 13` · `Livewire` · `Pest` · `Vite` · `SQL`
 
 ---
+
+## 🌐 Portfolio
+
+<a href="https://github.com/Hamdaoui-Ali/Portfolio">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Hamdaoui-Ali&repo=Portfolio&theme=github_dark&hide_border=true" alt="Portfolio"/>
+</a>
+
+My personal engineering portfolio presenting projects, technical experience and selected software work.
+
+🔗 **Live:** [ali-hamdaoui.vercel.app](https://ali-hamdaoui.vercel.app/)
+
+---
