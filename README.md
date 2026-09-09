@@ -154,3 +154,17 @@ A **Morocco-first job discovery application** that collects opportunities from a
 `Python` · `FastAPI` · `React` · `TypeScript` · `Vite` · `SQLite` · `Playwright`
 
 ---
+
+## 📋 PlanOps — Project & Task Management
+
+<a href="https://github.com/Hamdaoui-Ali/PlanOps">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Hamdaoui-Ali&repo=PlanOps&theme=github_dark&hide_border=true" alt="PlanOps"/>
+</a>
+
+A modern project and task-management application built with the Laravel ecosystem.
+
+**Core Stack**
+
+`PHP 8.3` · `Laravel 13` · `Livewire` · `Pest` · `Vite` · `SQL`
+
+---
