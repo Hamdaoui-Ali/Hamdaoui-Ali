@@ -346,3 +346,31 @@ Areas I especially enjoy working on:
 - ⚙️ **Backend systems, APIs and distributed workflows**
 
 ---
+
+# 🤝 Let's Connect
+
+I'm interested in opportunities and collaborations involving:
+
+**Software Engineering · Backend Development · Cloud · Data Engineering · AI Engineering · DevOps · Application Modernization**
+
+<div align="center">
+
+<a href="https://ali-hamdaoui.vercel.app/">
+  <img src="https://img.shields.io/badge/Explore_My_Portfolio-58A6FF?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/ali-hamdaoui/">
+  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:alihamdaoui000@gmail.com">
+  <img src="https://img.shields.io/badge/Send_Me_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+### Thanks for visiting! 👋
+
+⭐ **If one of my projects interests you, feel free to explore it or leave a star.**
+
+</div>
