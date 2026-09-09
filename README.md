@@ -60,3 +60,15 @@ A governed migration platform designed to modernize legacy **Java / Spring Boot*
 The system performs:
 
 `Analysis → Planning → Assessment → Human Approval → Sandbox Transformation → Build → Tests → Validation → Final Report`
+
+**Highlights**
+
+- Governed migration orchestration with explicit human approval gates
+- Read-only legacy application assessment
+- Automated transformation using **OpenRewrite**
+- Sandboxed source transformation
+- Maven build and test validation
+- Migration artifact generation and traceability
+- Deterministic reports and migration evidence
+- LangGraph-based orchestration
+- Fail-closed migration controls
