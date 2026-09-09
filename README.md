@@ -46,3 +46,17 @@ I'm a **Software Engineer** focused on building robust applications and platform
 > I care about more than making software work — I focus on making it **understandable, maintainable, testable and operationally reliable**.
 
 ---
+
+# 🚀 Featured Engineering Projects
+
+## 🧠 AI Migration Factory
+
+<a href="https://github.com/Hamdaoui-Ali/modernizer_solution">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Hamdaoui-Ali&repo=modernizer_solution&theme=github_dark&hide_border=true" alt="AI Migration Factory"/>
+</a>
+
+A governed migration platform designed to modernize legacy **Java / Spring Boot** applications through a controlled, auditable workflow.
+
+The system performs:
+
+`Analysis → Planning → Assessment → Human Approval → Sandbox Transformation → Build → Tests → Validation → Final Report`
