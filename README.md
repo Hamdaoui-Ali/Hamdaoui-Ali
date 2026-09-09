@@ -129,3 +129,11 @@ A deadline and reminder platform engineered around **reliable notification proce
 `Next.js` · `TypeScript` · `Supabase` · `PostgreSQL` · `Prisma` · `Vitest` · `Playwright` · `Docker`
 
 ---
+
+## 🔎 JobFinder — Intelligent Job Discovery
+
+<a href="https://github.com/Hamdaoui-Ali/JobFinder">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Hamdaoui-Ali&repo=JobFinder&theme=github_dark&hide_border=true" alt="JobFinder"/>
+</a>
+
+A **Morocco-first job discovery application** that collects opportunities from approved public sources, normalizes them and ranks relevant openings.
