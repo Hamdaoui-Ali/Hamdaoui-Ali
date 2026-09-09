@@ -28,3 +28,7 @@
 </div>
 
 ---
+
+## 👨‍💻 About Me
+
+I'm a **Software Engineer** focused on building robust applications and platforms across **backend engineering, cloud, data engineering and AI-assisted systems**.
