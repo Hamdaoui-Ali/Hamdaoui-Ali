@@ -323,3 +323,26 @@ My personal engineering portfolio presenting projects, technical experience and 
 > **Note:** GitHub language statistics represent the composition of public repositories, not a ranking of technical proficiency.
 
 ---
+
+# 🎯 Engineering Interests
+
+```text
+Backend Engineering       ████████████████████
+Cloud & DevOps            ██████████████████░░
+Data Engineering          ██████████████████░░
+AI Engineering            █████████████████░░░
+Software Architecture     ███████████████████░
+Automation                ███████████████████░
+```
+
+Areas I especially enjoy working on:
+
+- 🧠 **Agentic & AI-assisted software engineering**
+- ☕ **Java / Spring application modernization**
+- 📊 **Data engineering and analytical architectures**
+- ☁️ **Cloud-native systems and infrastructure automation**
+- 🔄 **CI/CD and developer productivity**
+- 🛡️ **DevSecOps, quality gates and reliable delivery**
+- ⚙️ **Backend systems, APIs and distributed workflows**
+
+---
