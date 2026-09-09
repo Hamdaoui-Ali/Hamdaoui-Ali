@@ -148,3 +148,9 @@ A **Morocco-first job discovery application** that collects opportunities from a
 - Lightweight SQLite persistence
 - REST API with OpenAPI documentation
 - Automated backend, frontend and browser testing
+
+**Core Stack**
+
+`Python` · `FastAPI` · `React` · `TypeScript` · `Vite` · `SQLite` · `Playwright`
+
+---
