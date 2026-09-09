@@ -123,3 +123,9 @@ A deadline and reminder platform engineered around **reliable notification proce
 - Health and operational diagnostic endpoints
 - Database migration/backfill workflows
 - Unit, integration and end-to-end testing
+
+**Core Stack**
+
+`Next.js` · `TypeScript` · `Supabase` · `PostgreSQL` · `Prisma` · `Vitest` · `Playwright` · `Docker`
+
+---
