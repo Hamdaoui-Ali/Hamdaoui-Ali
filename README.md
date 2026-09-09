@@ -102,3 +102,11 @@ A reproducible **container-terminal operations analytics platform** that transfo
 `Python` · `PostgreSQL` · `Parquet` · `DuckDB` · `dbt Core` · `SQL` · `Data Engineering`
 
 ---
+
+## ⏰ Remindly — Reliable Notification Platform
+
+<a href="https://github.com/Hamdaoui-Ali/Remindly">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Hamdaoui-Ali&repo=Remindly&theme=github_dark&hide_border=true" alt="Remindly"/>
+</a>
+
+A deadline and reminder platform engineered around **reliable notification processing, authentication and durable scheduling**.
