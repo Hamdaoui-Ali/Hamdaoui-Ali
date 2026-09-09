@@ -72,3 +72,9 @@ The system performs:
 - Deterministic reports and migration evidence
 - LangGraph-based orchestration
 - Fail-closed migration controls
+
+**Core Stack**
+
+`Python` · `LangGraph` · `Java 17` · `Spring Boot 3` · `OpenRewrite` · `Maven` · `JUnit` · `Git`
+
+---
