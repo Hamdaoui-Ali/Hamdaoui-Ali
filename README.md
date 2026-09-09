@@ -37,3 +37,12 @@ I'm a **Software Engineer** focused on building robust applications and platform
 - ☕ Building and modernizing applications with **Java & Spring Boot**
 - 🐍 Developing APIs, automation and data workloads with **Python**
 - 📊 Working with **data pipelines, analytics, SQL and modern data architectures**
+
+- ☁️ Exploring and implementing **cloud-native, containerized and automated infrastructure**
+- 🤖 Building **agentic workflows, RAG systems and AI-assisted engineering tools**
+- 🧪 Strong interest in **testing, observability, security and production reliability**
+- 🚀 Turning technical ideas into complete, demonstrable products
+
+> I care about more than making software work — I focus on making it **understandable, maintainable, testable and operationally reliable**.
+
+---
