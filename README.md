@@ -110,3 +110,16 @@ A reproducible **container-terminal operations analytics platform** that transfo
 </a>
 
 A deadline and reminder platform engineered around **reliable notification processing, authentication and durable scheduling**.
+
+**Highlights**
+
+- Supabase authentication
+- User-scoped reminders
+- Timezone-aware scheduling
+- Durable notification records
+- Retry-safe email processing
+- Idempotent notification handling
+- Processing leases and bounded retries
+- Health and operational diagnostic endpoints
+- Database migration/backfill workflows
+- Unit, integration and end-to-end testing
