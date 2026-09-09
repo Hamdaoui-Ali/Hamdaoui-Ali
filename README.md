@@ -309,3 +309,17 @@ My personal engineering portfolio presenting projects, technical experience and 
 </div>
 
 ---
+
+## 💻 GitHub Coding Statistics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hamdaoui-Ali&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamdaoui-Ali&layout=compact&langs_count=8&theme=github_dark&hide_border=true" alt="Top Languages"/>
+
+</div>
+
+> **Note:** GitHub language statistics represent the composition of public repositories, not a ranking of technical proficiency.
+
+---
