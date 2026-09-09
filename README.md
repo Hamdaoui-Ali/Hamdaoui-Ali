@@ -289,3 +289,23 @@ My personal engineering portfolio presenting projects, technical experience and 
 </div>
 
 ---
+
+## 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Hamdaoui-Ali&theme=dark&hide_border=true" alt="GitHub Contribution Streak"/>
+
+</div>
+
+---
+
+## 📉 Contribution Activity
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Hamdaoui-Ali&theme=github-compact&hide_border=true&area=true" alt="GitHub Contribution Activity Graph"/>
+
+</div>
+
+---
