@@ -1,16 +1,30 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Hamdaoui-Ali/Hamdaoui-Ali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Ali HAMDAOUI
 
-Here are some ideas to get you started:
+### Software Engineer · Backend · Data · Cloud · AI Systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**I build reliable software, data platforms, intelligent automation and developer tooling — from architecture to production-ready implementation.**
+
+<br/>
+
+<a href="https://ali-hamdaoui.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-58A6FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+</a>
+<a href="https://www.linkedin.com/in/ali-hamdaoui/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:alihamdaoui000@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://leetcode.com/u/hamdaoui_ali/">
+  <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Hamdaoui-Ali&label=Profile%20Views&color=58A6FF&style=flat-square" alt="Profile Views"/>
+
+</div>
+
+---
