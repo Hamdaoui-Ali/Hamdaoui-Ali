@@ -301,24 +301,64 @@ My personal engineering portfolio presenting projects, technical experience and 
 
 # 🎯 Engineering Interests
 
-```text
-Backend Engineering       ████████████████████
-Cloud & DevOps            ██████████████████░░
-Data Engineering          ██████████████████░░
-AI Engineering            █████████████████░░░
-Software Architecture     ███████████████████░
-Automation                ███████████████████░
-```
+<div align="center">
 
-Areas I especially enjoy working on:
+<sub><strong>Where reliable systems meet intelligent automation, useful data and developer-friendly delivery.</strong></sub>
 
-- 🧠 **Agentic & AI-assisted software engineering**
-- ☕ **Java / Spring application modernization**
-- 📊 **Data engineering and analytical architectures**
-- ☁️ **Cloud-native systems and infrastructure automation**
-- 🔄 **CI/CD and developer productivity**
-- 🛡️ **DevSecOps, quality gates and reliable delivery**
-- ⚙️ **Backend systems, APIs and distributed workflows**
+<br/><br/>
+
+<table>
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <img src="https://img.shields.io/badge/-AI_%26_Agentic_Systems-A371F7?style=for-the-badge&labelColor=161B22" alt="AI & Agentic Systems"/>
+      <br/><br/>
+      <sub>Agentic workflows, RAG systems and AI-assisted engineering tools.</sub>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <img src="https://img.shields.io/badge/-Application_Modernization-58A6FF?style=for-the-badge&labelColor=161B22" alt="Application Modernization"/>
+      <br/><br/>
+      <sub>Java / Spring modernization with clear, controlled migration paths.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <img src="https://img.shields.io/badge/-Data_%26_Analytics-F0883E?style=for-the-badge&labelColor=161B22" alt="Data & Analytics"/>
+      <br/><br/>
+      <sub>Data engineering, analytical architectures and decision-ready insights.</sub>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <img src="https://img.shields.io/badge/-Cloud--Native_Delivery-2DA44E?style=for-the-badge&labelColor=161B22" alt="Cloud-Native Delivery"/>
+      <br/><br/>
+      <sub>Cloud-native systems, infrastructure automation and resilient delivery.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <img src="https://img.shields.io/badge/-Developer_Productivity-DB61A2?style=for-the-badge&labelColor=161B22" alt="Developer Productivity"/>
+      <br/><br/>
+      <sub>CI/CD, developer tooling and smoother engineering workflows.</sub>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <img src="https://img.shields.io/badge/-Quality_%26_Reliability-F85149?style=for-the-badge&labelColor=161B22" alt="Quality & Reliability"/>
+      <br/><br/>
+      <sub>DevSecOps, test automation, observability and reliable delivery.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <img src="https://img.shields.io/badge/-Backend_%26_Architecture-39D0D8?style=for-the-badge&labelColor=161B22" alt="Backend & Architecture"/>
+      <br/><br/>
+      <sub>APIs, distributed workflows and maintainable production systems.</sub>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <img src="https://img.shields.io/badge/-Built_for_Production-8B949E?style=for-the-badge&labelColor=161B22" alt="Built for Production"/>
+      <br/><br/>
+      <sub>Understandable, testable and operationally reliable by design.</sub>
+    </td>
+  </tr>
+</table>
+
+</div>
 
 ---
 
