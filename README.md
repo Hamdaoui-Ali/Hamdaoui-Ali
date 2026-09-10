@@ -303,7 +303,7 @@ My personal engineering portfolio presenting projects, technical experience and 
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Hamdaoui-Ali&theme=github-compact&hide_border=true&area=true" alt="GitHub Contribution Activity Graph"/>
+<img width="100%" src="https://ghchart.rshah.org/58A6FF/Hamdaoui-Ali" alt="GitHub Contribution Activity Graph"/>
 
 </div>
 
