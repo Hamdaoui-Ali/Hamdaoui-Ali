@@ -299,16 +299,6 @@ My personal engineering portfolio presenting projects, technical experience and 
 
 ---
 
-## 📉 Contribution Activity
-
-<div align="center">
-
-<img width="100%" src="https://ghchart.rshah.org/58A6FF/Hamdaoui-Ali" alt="GitHub Contribution Activity Graph"/>
-
-</div>
-
----
-
 ## 💻 GitHub Coding Statistics
 
 <div align="center">
