@@ -313,9 +313,9 @@ My personal engineering portfolio presenting projects, technical experience and 
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hamdaoui-Ali&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hamdaoui-Ali&theme=github_dark&animation=rise" alt="GitHub Stats"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamdaoui-Ali&layout=compact&langs_count=8&theme=github_dark&hide_border=true" alt="Top Languages"/>
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hamdaoui-Ali&theme=github_dark" alt="Top Languages"/>
 
 </div>
 
