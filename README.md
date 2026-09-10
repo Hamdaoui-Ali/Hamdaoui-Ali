@@ -299,20 +299,6 @@ My personal engineering portfolio presenting projects, technical experience and 
 
 ---
 
-## 💻 GitHub Coding Statistics
-
-<div align="center">
-
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hamdaoui-Ali&theme=github_dark&animation=rise" alt="GitHub Stats"/>
-
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hamdaoui-Ali&theme=github_dark" alt="Top Languages"/>
-
-</div>
-
-> **Note:** GitHub language statistics represent the composition of public repositories, not a ranking of technical proficiency.
-
----
-
 # 🎯 Engineering Interests
 
 ```text
