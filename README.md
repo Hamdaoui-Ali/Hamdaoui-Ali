@@ -161,31 +161,6 @@ A deadline and reminder platform engineered around **reliable notification proce
 
 ---
 
-## 🔎 JobFinder — Intelligent Job Discovery
-
-<a href="https://github.com/Hamdaoui-Ali/JobFinder">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Hamdaoui-Ali&repo=JobFinder&theme=github_dark&hide_border=true" alt="JobFinder"/>
-</a>
-
-A **Morocco-first job discovery application** that collects opportunities from approved public sources, normalizes them and ranks relevant openings.
-
-**Highlights**
-
-- Multi-source job discovery architecture
-- Greenhouse and Lever integrations
-- Source policy and domain controls
-- Opportunity normalization and ranking
-- Search history and job actions
-- Lightweight SQLite persistence
-- REST API with OpenAPI documentation
-- Automated backend, frontend and browser testing
-
-**Core Stack**
-
-`Python` · `FastAPI` · `React` · `TypeScript` · `Vite` · `SQLite` · `Playwright`
-
----
-
 ## 📋 PlanOps — Project & Task Management
 
 <a href="https://github.com/Hamdaoui-Ali/PlanOps">
@@ -209,6 +184,31 @@ A personal project and work-tracking platform inspired by Jira and Linear, focus
 **Core Stack**
 
 `PHP 8.3` · `Laravel 13` · `Livewire` · `Pest` · `Vite` · `SQL`
+
+---
+
+## 🔎 JobFinder — Intelligent Job Discovery
+
+<a href="https://github.com/Hamdaoui-Ali/JobFinder">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Hamdaoui-Ali&repo=JobFinder&theme=github_dark&hide_border=true" alt="JobFinder"/>
+</a>
+
+A **Morocco-first job discovery application** that collects opportunities from approved public sources, normalizes them and ranks relevant openings.
+
+**Highlights**
+
+- Multi-source job discovery architecture
+- Greenhouse and Lever integrations
+- Source policy and domain controls
+- Opportunity normalization and ranking
+- Search history and job actions
+- Lightweight SQLite persistence
+- REST API with OpenAPI documentation
+- Automated backend, frontend and browser testing
+
+**Core Stack**
+
+`Python` · `FastAPI` · `React` · `TypeScript` · `Vite` · `SQLite` · `Playwright`
 
 ---
 
