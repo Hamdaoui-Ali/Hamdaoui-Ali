@@ -164,7 +164,7 @@ A deadline and reminder platform engineered around **reliable notification proce
 ## 📋 PlanOps — Project & Task Management
 
 <a href="https://github.com/Hamdaoui-Ali/PlanOps">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Hamdaoui-Ali&repo=PlanOps&theme=github_dark&hide_border=true" alt="PlanOps"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Hamdaoui-Ali&repo=PlanOps&theme=github_dark&hide_border=true" alt="PlanOps — Project & Task Management"/>
 </a>
 
 A personal project and work-tracking platform inspired by Jira and Linear, focused on making multi-project work visible without enterprise overhead. PlanOps lets one user organize projects, tasks and subtasks, move work through explicit statuses, and use recorded activity to understand progress over time.
@@ -190,7 +190,7 @@ A personal project and work-tracking platform inspired by Jira and Linear, focus
 ## 🔎 JobFinder — Intelligent Job Discovery
 
 <a href="https://github.com/Hamdaoui-Ali/JobFinder">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Hamdaoui-Ali&repo=JobFinder&theme=github_dark&hide_border=true" alt="JobFinder"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Hamdaoui-Ali&repo=JobFinder&theme=github_dark&hide_border=true" alt="JobFinder — Intelligent Job Discovery"/>
 </a>
 
 A **Morocco-first job discovery application** that collects opportunities from approved public sources, normalizes them and ranks relevant openings.
